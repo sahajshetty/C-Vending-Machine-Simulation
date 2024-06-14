@@ -1,0 +1,14 @@
+D:\C#\vending machine\VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.exe
+D:\C#\vending machine\VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.deps.json
+D:\C#\vending machine\VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.runtimeconfig.json
+D:\C#\vending machine\VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.dll
+D:\C#\vending machine\VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.pdb
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfoInputs.cache
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfo.cs
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.csproj.CoreCompileInputs.cache
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.dll
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\refint\VendingMachine.dll
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.pdb
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.genruntimeconfig.cache
+D:\C#\vending machine\VendingMachine\VendingMachine\obj\Debug\net8.0\ref\VendingMachine.dll
